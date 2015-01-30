@@ -8,8 +8,6 @@ This is a list of fonts that you can use directly by specifying their names on t
 
 ### iPad and iPhone
 
-According to this [website](http://www.apaddedcell.com/sites/www.apaddedcell.com/files/fonts-article/final/index.html), iPad and iPhone has the following fonts pre-installed:
-
 * Academy Engraved
 * AmericanTypewriter
 * Apple Gothic
@@ -37,9 +35,19 @@ According to this [website](http://www.apaddedcell.com/sites/www.apaddedcell.com
 * Trebuchet MS
 * Verdana
 * Zapfino
+ 
+### Kindle PaperWhite
+
+* Baskerville
+* Caecilia
+* Caecilia Condensed
+* Futura
+* Helvetica
+* Palatino
 
 ## Rerefences
 
 * http://www.adobe.com/products/type/font-licensing/font-embedding-permissions.html
 * http://epubzone.org/news/epub-3-font-embedding-and-licensing
 * http://www.apaddedcell.com/sites/www.apaddedcell.com/files/fonts-article/final/index.html
+* http://www.amazon.co.uk/kindle-touch-paperwhite-amazon-reader/dp/B007OZO03M
