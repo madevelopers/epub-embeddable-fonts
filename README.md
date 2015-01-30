@@ -45,9 +45,25 @@ This is a list of fonts that you can use directly by specifying their names on t
 * Helvetica
 * Palatino
 
+### Kindle Fire
+
+* Arial
+* Caecilia
+* Courier
+* Georgia
+* Lucida
+* Times New Roman
+* Trebuchet
+* Verdana
+
+### Older Kindles and Kindle DX 
+
+* Caecilia
+
 ## Rerefences
 
 * http://www.adobe.com/products/type/font-licensing/font-embedding-permissions.html
 * http://epubzone.org/news/epub-3-font-embedding-and-licensing
 * http://www.apaddedcell.com/sites/www.apaddedcell.com/files/fonts-article/final/index.html
 * http://www.amazon.co.uk/kindle-touch-paperwhite-amazon-reader/dp/B007OZO03M
+* http://mademers.com/globalindieauthor/2013/03/best-fonts-for-kindle/
