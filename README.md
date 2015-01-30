@@ -1,12 +1,10 @@
-# epub-embeddable-fonts
+A list of free fonts that can be embedded on epubs. I also included pre-installed fonts on various devices from the list.
 
-A list of epub embeddable fonts.
-
-## Pre-installed fonts
+# Pre-installed fonts
 
 This is a list of fonts that you can use directly by specifying their names on the css. No embedding needed.
 
-### iOS
+## iOS
 
 This list is from http://support.apple.com/en-us/HT202771. There is an additional list where they say _“Apps can download the following fonts if necessary”_. I don't know what they meant, so I excluded them from this list.
 
@@ -257,7 +255,7 @@ This list is from http://support.apple.com/en-us/HT202771. There is an additiona
 * Helvetica
 * Palatino
 
-### Kindle Fire
+## Kindle Fire
 
 * Arial
 * Caecilia
@@ -268,11 +266,11 @@ This list is from http://support.apple.com/en-us/HT202771. There is an additiona
 * Trebuchet
 * Verdana
 
-### Older Kindles and Kindle DX 
+## Older Kindles and Kindle DX 
 
 * Caecilia
 
-## Rerefences
+# Rerefences
 
 * http://www.adobe.com/products/type/font-licensing/font-embedding-permissions.html
 * http://epubzone.org/news/epub-3-font-embedding-and-licensing
