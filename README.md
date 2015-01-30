@@ -1,5 +1,11 @@
 A list of free fonts that can be embedded on epubs. I also included pre-installed fonts on various devices from the list.
 
+# Free fonts
+
+## SIL Open Font License
+
+Check this [page](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_fonts) for a list of SIL fonts.
+
 # Pre-installed fonts
 
 This is a list of fonts that you can use directly by specifying their names on the css. No embedding needed.
