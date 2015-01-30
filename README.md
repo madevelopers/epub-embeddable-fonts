@@ -42,3 +42,4 @@ According to this [website](http://www.apaddedcell.com/sites/www.apaddedcell.com
 
 * http://www.adobe.com/products/type/font-licensing/font-embedding-permissions.html
 * http://epubzone.org/news/epub-3-font-embedding-and-licensing
+* http://www.apaddedcell.com/sites/www.apaddedcell.com/files/fonts-article/final/index.html
