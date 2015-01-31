@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabularyextensions-1.0/" unique-identifier="book_id" version="3.0" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:identifier id="book_id">urn:isbn:0000000000000</dc:identifier>
+        <meta property="identifier-type" refines="#book_id" scheme="onix:codelist5">15</meta>
+        <dc:title id="t1">iOS Fonts</dc:title>
+        <meta property="title-type" refines="#t1">main</meta>
+        <dc:creator id="creator01">Mark Anthony Degamo</dc:creator>
+        <meta property="role" refines="#creator01" scheme="marc:relators">aut</meta>
+        <meta property="file-as" refines="#creator01">Degamo, Mark Anthony</meta>
+        <meta property="display-seq" refines="#creator01">1</meta>
+        <dc:date id="published">2015-01-31</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="cover-image" name="cover"/>
+        <meta property="dcterms:modified">2015-01-31T01:36:59Z</meta>
+    </metadata>
+    <manifest>
+        <item id="stylesheet" href="stylesheet.css" media-type="text/css"/>
+        <item href="cover.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
+        <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+        <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+        <item href="fonts.xhtml" id="fonts" media-type="application/xhtml+xml"/>
+    </manifest>
+    <spine>
+        <itemref idref="cover" linear="no"/>
+        <itemref idref="fonts"/>
+    </spine>
+    <guide>
+        <reference href="cover.xhtml" title="Cover" type="cover"/>
+        <reference href="fonts.xhtml" title="Beginning of book" type="text"/>
+    </guide>
+</package>

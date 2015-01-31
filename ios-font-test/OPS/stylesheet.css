@@ -1,0 +1,991 @@
+body {
+    font-size: 16px;
+}
+
+div.cover_wrap {
+    width:100%;
+    text-align:center;
+}
+
+img.cover {
+    max-height:100%;
+    max-width:100%;
+}
+
+.font-fam {
+    color: #303030;
+    text-align: center;
+    page-break-before: always;
+}
+
+.font-fam:first-child {
+    border-top: none;
+    page-break-before: avoid;
+}
+
+.font-name {
+    font-size: 1.5em;
+    font-family: sans-serif;
+    color: #0ca6bd;
+    margin-bottom: 3em;
+}
+.text-sampler {
+    font-size: 3em;
+}
+
+
+
+/*font*/
+#academy-engraved-let-plain .text-sampler {
+    font-family: "AcademyEngravedLETPlain";  /*DONE*/
+}
+/*font*/
+#al-nile .text-sampler {
+    font-family: "Al Nile";  /*DONE*/
+}
+/*font*/
+#al-nile-bold .text-sampler {
+    font-family: "Al Nile";  /*DONE*/
+    font-weight: bold;
+}
+/*font*/
+#american-typewriter .text-sampler {
+    font-family: "AmericanTypewriter";  /*DONE*/
+}
+/*font*/
+#american-typewriter-bold .text-sampler {
+    font-family: "AmericanTypewriter-Bold";  /*DONE*/
+}
+/*font*/
+#american-typewriter-condensed .text-sampler {
+    font-family: "AmericanTypewriter-Condensed";  /*DONE*/
+}
+/*font*/
+#american-typewriter-condensed-bold .text-sampler {
+    font-family: "AmericanTypewriter-CondensedBold";  /*DONE*/
+}
+/*font*/
+#american-typewriter-condensed-light .text-sampler {
+    font-family: "AmericanTypewriter-CondensedLight";  /*DONE*/
+}
+/*font*/
+#american-typewriter-light .text-sampler {
+    font-family: "AmericanTypewriter-Light";  /*DONE*/
+}
+/*font*/
+#apple-color-emoji .text-sampler {
+    font-family: "Apple Color Emoji";  /*DONE*/
+}
+/*font*/
+#apple-sd-gothic-neo-bold .text-sampler {
+    font-family: "AppleSDGothicNeo-Bold";  /*DONE*/
+}
+/*font*/
+#apple-sd-gothic-neo-light .text-sampler {
+    font-family: "AppleSDGothicNeo-Light";  /*DONE*/
+}
+/*font*/
+#apple-sd-gothic-neo-medium .text-sampler {
+    font-family: "AppleSDGothicNeo-Medium";  /*DONE*/
+}
+/*font*/
+#apple-sd-gothic-neo-regular .text-sampler {
+    font-family: "AppleSDGothicNeo-Regular";  /*DONE*/
+}
+/*font*/
+#apple-sd-gothic-neo-semibold .text-sampler {
+    font-family: "AppleSDGothicNeo-SemiBold";  /*DONE*/
+}
+/*font*/
+#apple-sd-gothic-neo-thin .text-sampler {
+    font-family: "AppleSDGothicNeo-Thin";  /*DONE*/
+}
+/*font*/
+#applegothic-regular .text-sampler {
+    font-family: "AppleGothic";  /*DONE*/
+}
+/*font*/
+#arial .text-sampler {
+    font-family: "Arial";  /*DONE*/
+}
+/*font*/
+#arial-bold .text-sampler {
+    font-family: "Arial";  /*DONE*/
+    font-weight: bold;
+}
+/*font*/
+#arial-bold-italic .text-sampler {
+    font-family: "Arial";  /*DONE*/
+    font-weight: bold;
+    font-style: italic;
+}
+/*font*/
+#arial-hebrew .text-sampler {
+    font-family: "Arial Hebrew";  /*DONE.*/
+}
+/*font*/
+#arial-hebrew-bold .text-sampler {
+    font-family: "Arial Hebrew";  /*DONE.*/
+    font-weight: bold;
+}
+/*font*/
+#arial-hebrew-light .text-sampler {
+    font-family: "ArialHebrew-Light";  /*DONE.*/
+}
+/*font*/
+#arial-italic .text-sampler {
+    font-family: "Arial";  /*DONE*/
+    font-style: italic;
+}
+/*font*/
+#arial-rounded-mt-bold .text-sampler {
+    font-family: "Arial Rounded MT Bold";  /*DONE.*/
+}
+/*font*/
+#avenir-black .text-sampler {
+    font-family: "Avenir-Black";  /*DONE.*/
+}
+/*font*/
+#avenir-black-oblique .text-sampler {
+    font-family: "Avenir-BlackOblique";  /*DONE.*/
+}
+/*font*/
+#avenir-book .text-sampler {
+    font-family: "Avenir-Book";  /*DONE.*/
+}
+/*font*/
+#avenir-book-oblique .text-sampler {
+    font-family: "Avenir-BookOblique";  /*DONE.*/
+}
+/*font*/
+#avenir-heavy .text-sampler {
+    font-family: "Avenir-Heavy";  /*DONE.*/
+}
+/*font*/
+#avenir-heavy-oblique .text-sampler {
+    font-family: "Avenir-HeavyOblique";  /*DONE.*/
+}
+/*font*/
+#avenir-light .text-sampler {
+    font-family: "Avenir-Light";  /*DONE.*/
+}
+/*font*/
+#avenir-light-oblique .text-sampler {
+    font-family: "Avenir-LightOblique";  /*DONE.*/
+}
+/*font*/
+#avenir-medium .text-sampler {
+    font-family: "Avenir-Medium";  /*DONE.*/
+}
+/*font*/
+#avenir-medium-oblique .text-sampler {
+    font-family: "Avenir-MediumOblique";  /*DONE.*/
+}
+/*font*/
+#avenir-next-bold .text-sampler {
+    font-family: "AvenirNext-Bold";  /*DONE.*/
+}
+/*font*/
+#avenir-next-bold-italic .text-sampler {
+    font-family: "AvenirNext-BoldItalic";  /*DONE.*/
+}
+/*font*/
+#avenir-next-condensed-bold .text-sampler {
+    font-family: "AvenirNextCondensed-Bold";  /*DONE.*/
+}
+/*font*/
+#avenir-next-condensed-bold-italic .text-sampler {
+    font-family: "AvenirNextCondensed-BoldItalic";  /*DONE.*/
+}
+/*font*/
+#avenir-next-condensed-demi-bold .text-sampler {
+    font-family: "AvenirNextCondensed-DemiBold";  /*DONE.*/
+}
+/*font*/
+#avenir-next-condensed-demi-bold-italic .text-sampler {
+    font-family: "AvenirNextCondensed-DemiBoldItalic";  /*DONE.*/
+}
+/*font*/
+#avenir-next-condensed-heavy .text-sampler {
+    font-family: "AvenirNextCondensed-Heavy";  /*DONE.*/
+}
+/*font*/
+#avenir-next-condensed-heavy-italic .text-sampler {
+    font-family: "AvenirNextCondensed-HeavyItalic";  /*DONE.*/
+}
+/*font*/
+#avenir-next-condensed-italic .text-sampler {
+    font-family: "AvenirNextCondensed-Italic";  /*DONE.*/
+}
+/*font*/
+#avenir-next-condensed-medium .text-sampler {
+    font-family: "AvenirNextCondensed-Medium";  /*DONE.*/
+}
+/*font*/
+#avenir-next-condensed-medium-italic .text-sampler {
+    font-family: "AvenirNextCondensed-MediumItalic";  /*DONE.*/
+}
+/*font*/
+#avenir-next-condensed-regular .text-sampler {
+    font-family: "AvenirNextCondensed-Regular";  /*DONE.*/
+}
+/*font*/
+#avenir-next-condensed-ultra-light .text-sampler {
+    font-family: "AvenirNextCondensed-UltraLight";  /*DONE.*/
+}
+/*font*/
+#avenir-next-condensed-ultra-light-italic .text-sampler {
+    font-family: "AvenirNextCondensed-UltraLightItalic";  /*DONE.*/
+}
+/*font*/
+#avenir-next-demi-bold .text-sampler {
+    font-family: "AvenirNext-DemiBold";  /*DONE.*/
+}
+/*font*/
+#avenir-next-demi-bold-italic .text-sampler {
+    font-family: "AvenirNext-DemiBoldItalic";  /*DONE.*/
+}
+/*font*/
+#avenir-next-heavy .text-sampler {
+    font-family: "AvenirNext-Heavy";  /*DONE.*/
+}
+/*font*/
+#avenir-next-heavy-italic .text-sampler {
+    font-family: "AvenirNext-HeavyItalic";  /*DONE.*/
+}
+/*font*/
+#avenir-next-italic .text-sampler {
+    font-family: "AvenirNext-Italic";  /*DONE.*/
+}
+/*font*/
+#avenir-next-medium .text-sampler {
+    font-family: "AvenirNext-Medium";  /*DONE.*/
+}
+/*font*/
+#avenir-next-medium-italic .text-sampler {
+    font-family: "AvenirNext-MediumItalic";  /*DONE.*/
+}
+/*font*/
+#avenir-next-regular .text-sampler {
+    font-family: "AvenirNext-Regular";  /*DONE.*/
+}
+/*font*/
+#avenir-next-ultra-light .text-sampler {
+    font-family: "AvenirNext-UltraLight";  /*DONE.*/
+}
+/*font*/
+#avenir-next-ultra-light-italic .text-sampler {
+    font-family: "AvenirNext-UltraLightItalic";  /*DONE.*/
+}
+/*font*/
+#avenir-oblique .text-sampler {
+    font-family: "Avenir-Oblique";  /*DONE.*/
+}
+/*font*/
+#avenir-roman .text-sampler {
+    font-family: "Avenir-Roman";  /*DONE.*/
+}
+/*font*/
+#bangla-sangam-mn .text-sampler {
+    font-family: "Bangla Sangam MN";  /*DONE.*/
+}
+/*font*/
+#bangla-sangam-mn-bold .text-sampler {
+    font-family: "BanglaSangamMN-Bold";  /*DONE.*/
+}
+/*font*/
+#baskerville .text-sampler {
+    font-family: "Baskerville";  /*DONE.*/
+}
+/*font*/
+#baskerville-bold .text-sampler {
+    font-family: "Baskerville-Bold";  /*DONE.*/
+}
+/*font*/
+#baskerville-bold-italic .text-sampler {
+    font-family: "Baskerville-BoldItalic";  /*DONE.*/
+}
+/*font*/
+#baskerville-italic .text-sampler {
+    font-family: "Baskerville-Italic";  /*DONE.*/
+}
+/*font*/
+#baskerville-semibold .text-sampler {
+    font-family: "Baskerville-SemiBold";  /*DONE.*/
+}
+/*font*/
+#baskerville-semibold-italic .text-sampler {
+    font-family: "Baskerville-SemiBoldItalic";  /*DONE.*/
+}
+/*font*/
+#bodoni-72-bold .text-sampler {
+    font-family: "Bodoni 72 Bold";
+}
+/*font*/
+#bodoni-72-book .text-sampler {
+    font-family: "Bodoni 72 Book";
+}
+/*font*/
+#bodoni-72-book-italic .text-sampler {
+    font-family: "Bodoni 72 Book Italic";
+}
+/*font*/
+#bodoni-72-oldstyle-bold .text-sampler {
+    font-family: "Bodoni 72 Oldstyle Bold";
+}
+/*font*/
+#bodoni-72-oldstyle-book .text-sampler {
+    font-family: "Bodoni 72 Oldstyle Book";
+}
+/*font*/
+#bodoni-72-oldstyle-book-italic .text-sampler {
+    font-family: "Bodoni 72 Oldstyle Book Italic";
+}
+/*font*/
+#bodoni-72-smallcaps-book .text-sampler {
+    font-family: "Bodoni 72 Smallcaps Book";
+}
+/*font*/
+#bodoni-ornaments .text-sampler {
+    font-family: "Bodoni Ornaments";
+}
+/*font*/
+#bradley-hand-bold .text-sampler {
+    font-family: "BradleyHand-Bold";
+}
+/*font*/
+#chalkboard-se-bold .text-sampler {
+    font-family: "ChalkboardSE-Bold";  /*DONE.*/
+}
+/*font*/
+#chalkboard-se-light .text-sampler {
+    font-family: "ChalkboardSE-Light";  /*DONE.*/
+}
+/*font*/
+#chalkboard-se-regular .text-sampler {
+    font-family: "ChalkboardSE-Regular";  /*DONE.*/
+}
+/*font*/
+#chalkduster .text-sampler {
+    font-family: "Chalkduster";  /*DONE.*/
+}
+/*font*/
+#cochin .text-sampler {
+    font-family: "Cochin";  /*DONE.*/
+}
+/*font*/
+#cochin-bold .text-sampler {
+    font-family: "Cochin-Bold";  /*DONE.*/
+}
+/*font*/
+#cochin-bold-italic .text-sampler {
+    font-family: "Cochin-BoldItalic";  /*DONE.*/
+}
+/*font*/
+#cochin-italic .text-sampler {
+    font-family: "Cochin-Italic";  /*DONE.*/
+}
+/*font*/
+#copperplate .text-sampler {
+    font-family: "Copperplate";  /*DONE.*/
+}
+/*font*/
+#copperplate-bold .text-sampler {
+    font-family: "Copperplate-Bold";  /*DONE.*/
+}
+/*font*/
+#copperplate-light .text-sampler {
+    font-family: "Copperplate-Light";  /*DONE.*/
+}
+/*font*/
+#courier .text-sampler {
+    font-family: "Courier";  /*DONE.*/
+}
+/*font*/
+#courier-bold .text-sampler {
+    font-family: "Courier-Bold";  /*DONE.*/
+}
+/*font*/
+#courier-bold-oblique .text-sampler {
+    font-family: "Courier-BoldOblique";  /*DONE.*/
+}
+/*font*/
+#courier-new .text-sampler {
+    font-family: "Courier New";  /*DONE.*/
+}
+/*font*/
+#courier-new-bold .text-sampler {
+    font-family: "Courier New Bold";
+}
+/*font*/
+#courier-new-bold-italic .text-sampler {
+    font-family: "Courier New Bold Italic";
+}
+/*font*/
+#courier-new-italic .text-sampler {
+    font-family: "Courier New Italic";
+}
+/*font*/
+#courier-oblique .text-sampler {
+    font-family: "Courier-Oblique";  /*DONE.*/
+}
+/*font*/
+#din-alternate-bold .text-sampler {
+    font-family: "DINAlternate-Bold";  /*DONE.*/
+}
+/*font*/
+#din-condensed-bold .text-sampler {
+    font-family: "DINCondensed-Bold";  /*DONE.*/
+}
+/*font*/
+#damascus .text-sampler {
+    font-family: "Damascus";  /*DONE.*/
+}
+/*font*/
+#damascus-bold .text-sampler {
+    font-family: "DamascusBold";  /*ISSUE: Still displays regular damascus*/
+}
+/*font*/
+#damascus-medium .text-sampler {
+    font-family: "DamascusMedium";  /*ISSUE: Still displays regular damascus*/
+}
+/*font*/
+#damascus-semi-bold .text-sampler {
+    font-family: "DamascusSemiBold";  /*ISSUE: Still displays regular damascus*/
+}
+/*font*/
+#devanagari-sangam-mn .text-sampler {
+    font-family: "Devanagari Sangam MN";  /*DONE.*/
+}
+/*font*/
+#devanagari-sangam-mn-bold .text-sampler {
+    font-family: "DevanagariSangamMN-Bold";  /*DONE.*/
+}
+/*font*/
+#didot .text-sampler {
+    font-family: "Didot";  /*DONE.*/
+}
+/*font*/
+#didot-bold .text-sampler {
+    font-family: "Didot-Bold";  /*DONE.*/
+}
+/*font*/
+#didot-italic .text-sampler {
+    font-family: "Didot-Italic";  /*DONE.*/
+}
+/*font*/
+#diwan-mishafi .text-sampler {
+    font-family: "Diwan Mishafi";
+}
+/*font*/
+#euphemia-ucas .text-sampler {
+    font-family: "Euphemia UCAS";
+}
+/*font*/
+#euphemia-ucas-bold .text-sampler {
+    font-family: "Euphemia UCAS Bold";
+}
+/*font*/
+#euphemia-ucas-italic .text-sampler {
+    font-family: "Euphemia UCAS Italic";
+}
+/*font*/
+#farah .text-sampler {
+    font-family: "Farah";
+}
+/*font*/
+#futura-condensed-extrabold .text-sampler {
+    font-family: "Futura Condensed ExtraBold";
+}
+/*font*/
+#futura-condensed-medium .text-sampler {
+    font-family: "Futura Condensed Medium";
+}
+/*font*/
+#futura-medium .text-sampler {
+    font-family: "Futura Medium";
+}
+/*font*/
+#futura-medium-italic .text-sampler {
+    font-family: "Futura Medium Italic";
+}
+/*font*/
+#geeza-pro .text-sampler {
+    font-family: "Geeza Pro";
+}
+/*font*/
+#geeza-pro-bold .text-sampler {
+    font-family: "Geeza Pro Bold";
+}
+/*font*/
+#geeza-pro-light .text-sampler {
+    font-family: "Geeza Pro Light";
+}
+/*font*/
+#georgia .text-sampler {
+    font-family: "Georgia";
+}
+/*font*/
+#georgia-bold .text-sampler {
+    font-family: "Georgia Bold";
+}
+/*font*/
+#georgia-bold-italic .text-sampler {
+    font-family: "Georgia Bold Italic";
+}
+/*font*/
+#georgia-italic .text-sampler {
+    font-family: "Georgia Italic";
+}
+/*font*/
+#gill-sans .text-sampler {
+    font-family: "Gill Sans";
+}
+/*font*/
+#gill-sans-bold .text-sampler {
+    font-family: "Gill Sans Bold";
+}
+/*font*/
+#gill-sans-bold-italic .text-sampler {
+    font-family: "Gill Sans Bold Italic";
+}
+/*font*/
+#gill-sans-italic .text-sampler {
+    font-family: "Gill Sans Italic";
+}
+/*font*/
+#gill-sans-light .text-sampler {
+    font-family: "Gill Sans Light";
+}
+/*font*/
+#gill-sans-light-italic .text-sampler {
+    font-family: "Gill Sans Light Italic";
+}
+/*font*/
+#gujarati-sangam-mn .text-sampler {
+    font-family: "Gujarati Sangam MN";
+}
+/*font*/
+#gujarati-sangam-mn-bold .text-sampler {
+    font-family: "Gujarati Sangam MN Bold";
+}
+/*font*/
+#gurmukhi-mn .text-sampler {
+    font-family: "Gurmukhi MN";
+}
+/*font*/
+#gurmukhi-mn-bold .text-sampler {
+    font-family: "Gurmukhi MN Bold";
+}
+/*font*/
+#heiti-sc-medium .text-sampler {
+    font-family: "Heiti SC Medium";
+}
+/*font*/
+#heiti-tc-light .text-sampler {
+    font-family: "Heiti TC Light";
+}
+/*font*/
+#heiti-tc-medium .text-sampler {
+    font-family: "Heiti TC Medium";
+}
+/*font*/
+#helvetica-sans-serif .text-sampler {
+    font-family: "Helvetica sans-serif";
+}
+/*font*/
+#helvetica-bold .text-sampler {
+    font-family: "Helvetica Bold";
+}
+/*font*/
+#helvetica-bold-oblique .text-sampler {
+    font-family: "Helvetica Bold Oblique";
+}
+/*font*/
+#helvetica-light .text-sampler {
+    font-family: "Helvetica Light";
+}
+/*font*/
+#helvetica-light-oblique .text-sampler {
+    font-family: "Helvetica Light Oblique";
+}
+/*font*/
+#helvetica-neue .text-sampler {
+    font-family: "Helvetica Neue";
+}
+/*font*/
+#helvetica-neue-bold .text-sampler {
+    font-family: "Helvetica Neue Bold";
+}
+/*font*/
+#helvetica-neue-bold-italic .text-sampler {
+    font-family: "Helvetica Neue Bold Italic";
+}
+/*font*/
+#helvetica-neue-condensed-black .text-sampler {
+    font-family: "Helvetica Neue Condensed Black";
+}
+/*font*/
+#helvetica-neue-condensed-bold .text-sampler {
+    font-family: "Helvetica Neue Condensed Bold";
+}
+/*font*/
+#helvetica-neue-italic .text-sampler {
+    font-family: "Helvetica Neue Italic";
+}
+/*font*/
+#helvetica-neue-light .text-sampler {
+    font-family: "Helvetica Neue Light";
+}
+/*font*/
+#helvetica-neue-light-italic .text-sampler {
+    font-family: "Helvetica Neue Light Italic";
+}
+/*font*/
+#helvetica-neue-medium .text-sampler {
+    font-family: "Helvetica Neue Medium";
+}
+/*font*/
+#helvetica-neue-medium-italic .text-sampler {
+    font-family: "Helvetica Neue Medium Italic";
+}
+/*font*/
+#helvetica-neue-thin .text-sampler {
+    font-family: "Helvetica Neue Thin";
+}
+/*font*/
+#helvetica-neue-thin-italic .text-sampler {
+    font-family: "Helvetica Neue Thin Italic";
+}
+/*font*/
+#helvetica-neue-ultralight .text-sampler {
+    font-family: "Helvetica Neue UltraLight";
+}
+/*font*/
+#helvetica-neue-ultralight-italic .text-sampler {
+    font-family: "Helvetica Neue UltraLight Italic";
+}
+/*font*/
+#helvetica-oblique .text-sampler {
+    font-family: "Helvetica Oblique";
+}
+/*font*/
+#hiragino-kaku-gothic-pron-w3 .text-sampler {
+    font-family: "Hiragino Kaku Gothic ProN W3";
+}
+/*font*/
+#hiragino-kaku-gothic-pron-w6 .text-sampler {
+    font-family: "Hiragino Kaku Gothic ProN W6";
+}
+/*font*/
+#hiragino-mincho-pron-w3 .text-sampler {
+    font-family: "Hiragino Mincho ProN W3";
+}
+/*font*/
+#hiragino-mincho-pron-w6 .text-sampler {
+    font-family: "Hiragino Mincho ProN W6";
+}
+/*font*/
+#hoefler-text .text-sampler {
+    font-family: "Hoefler Text";
+}
+/*font*/
+#hoefler-text-black .text-sampler {
+    font-family: "Hoefler Text Black";
+}
+/*font*/
+#hoefler-text-black-italic .text-sampler {
+    font-family: "Hoefler Text Black Italic";
+}
+/*font*/
+#hoefler-text-italic .text-sampler {
+    font-family: "Hoefler Text Italic";
+}
+/*font*/
+#iowan-old-style-bold .text-sampler {
+    font-family: "Iowan Old Style Bold";
+}
+/*font*/
+#iowan-old-style-bold-italic .text-sampler {
+    font-family: "Iowan Old Style Bold Italic";
+}
+/*font*/
+#iowan-old-style-italic .text-sampler {
+    font-family: "Iowan Old Style Italic";
+}
+/*font*/
+#iowan-old-style-roman .text-sampler {
+    font-family: "Iowan Old Style Roman";
+}
+/*font*/
+#kailasa-bold .text-sampler {
+    font-family: "Kailasa Bold";
+}
+/*font*/
+#kailasa-regular .text-sampler {
+    font-family: "Kailasa Regular";
+}
+/*font*/
+#kannada-sangam-mn .text-sampler {
+    font-family: "Kannada Sangam MN";
+}
+/*font*/
+#kannada-sangam-mn-bold .text-sampler {
+    font-family: "Kannada Sangam MN Bold";
+}
+/*font*/
+#malayalam-sangam-mn .text-sampler {
+    font-family: "Malayalam Sangam MN";
+}
+/*font*/
+#malayalam-sangam-mn-bold .text-sampler {
+    font-family: "Malayalam Sangam MN Bold";
+}
+/*font*/
+#marion-bold .text-sampler {
+    font-family: "Marion Bold";
+}
+/*font*/
+#marion-italic .text-sampler {
+    font-family: "Marion Italic";
+}
+/*font*/
+#marion-regular .text-sampler {
+    font-family: "Marion Regular";
+}
+/*font*/
+#marker-felt-thin .text-sampler {
+    font-family: "Marker Felt Thin";
+}
+/*font*/
+#marker-felt-wide .text-sampler {
+    font-family: "Marker Felt Wide";
+}
+/*font*/
+#menlo-bold .text-sampler {
+    font-family: "Menlo Bold";
+}
+/*font*/
+#menlo-bold-italic .text-sampler {
+    font-family: "Menlo Bold Italic";
+}
+/*font*/
+#menlo-italic .text-sampler {
+    font-family: "Menlo Italic";
+}
+/*font*/
+#menlo-regular .text-sampler {
+    font-family: "Menlo Regular";
+}
+/*font*/
+#noteworthy-bold .text-sampler {
+    font-family: "Noteworthy Bold";
+}
+/*font*/
+#noteworthy-light .text-sampler {
+    font-family: "Noteworthy Light";
+}
+/*font*/
+#optima-bold .text-sampler {
+    font-family: "Optima Bold";
+}
+/*font*/
+#optima-bold-italic .text-sampler {
+    font-family: "Optima Bold Italic";
+}
+/*font*/
+#optima-extrablack .text-sampler {
+    font-family: "Optima ExtraBlack";
+}
+/*font*/
+#optima-italic .text-sampler {
+    font-family: "Optima Italic";
+}
+/*font*/
+#optima-regular .text-sampler {
+    font-family: "Optima Regular";
+}
+/*font*/
+#oriya-sangam-mn .text-sampler {
+    font-family: "Oriya Sangam MN";
+}
+/*font*/
+#oriya-sangam-mn-bold .text-sampler {
+    font-family: "Oriya Sangam MN Bold";
+}
+/*font*/
+#palatino .text-sampler {
+    font-family: "Palatino";
+}
+/*font*/
+#palatino-bold .text-sampler {
+    font-family: "Palatino Bold";
+}
+/*font*/
+#palatino-bold-italic .text-sampler {
+    font-family: "Palatino Bold Italic";
+}
+/*font*/
+#palatino-italic .text-sampler {
+    font-family: "Palatino Italic";
+}
+/*font*/
+#papyrus-fantasy .text-sampler {
+    font-family: "Papyrus fantasy";
+}
+/*font*/
+#papyrus-condensed .text-sampler {
+    font-family: "Papyrus Condensed";
+}
+/*font*/
+#party-let-plain .text-sampler {
+    font-family: "Party LET Plain";
+}
+/*font*/
+#savoye-let-plain-cc .text-sampler {
+    font-family: "Savoye LET Plain CC";
+}
+/*font*/
+#savoye-let-plain .text-sampler {
+    font-family: "Savoye LET Plain";
+}
+/*font*/
+#sinhala-sangam-mn .text-sampler {
+    font-family: "Sinhala Sangam MN";
+}
+/*font*/
+#sinhala-sangam-mn-bold .text-sampler {
+    font-family: "Sinhala Sangam MN Bold";
+}
+/*font*/
+#snell-roundhand-cursive .text-sampler {
+    font-family: "Snell Roundhand cursive";
+}
+/*font*/
+#snell-roundhand-black .text-sampler {
+    font-family: "Snell Roundhand Black";
+}
+/*font*/
+#snell-roundhand-bold .text-sampler {
+    font-family: "Snell Roundhand Bold";
+}
+/*font*/
+#superclarendon-black .text-sampler {
+    font-family: "Superclarendon Black";
+}
+/*font*/
+#superclarendon-black-italic .text-sampler {
+    font-family: "Superclarendon Black Italic";
+}
+/*font*/
+#superclarendon-bold .text-sampler {
+    font-family: "Superclarendon Bold";
+}
+/*font*/
+#superclarendon-bold-italic .text-sampler {
+    font-family: "Superclarendon Bold Italic";
+}
+/*font*/
+#superclarendon-italic .text-sampler {
+    font-family: "Superclarendon Italic";
+}
+/*font*/
+#superclarendon-light .text-sampler {
+    font-family: "Superclarendon Light";
+}
+/*font*/
+#superclarendon-light-italic .text-sampler {
+    font-family: "Superclarendon Light Italic";
+}
+/*font*/
+#superclarendon-regular .text-sampler {
+    font-family: "Superclarendon Regular";
+}
+/*font*/
+#symbol .text-sampler {
+    font-family: "Symbol";
+}
+/*font*/
+#tamil-sangam-mn .text-sampler {
+    font-family: "Tamil Sangam MN";
+}
+/*font*/
+#tamil-sangam-mn-bold .text-sampler {
+    font-family: "Tamil Sangam MN Bold";
+}
+/*font*/
+#telugu-sangam-mn .text-sampler {
+    font-family: "Telugu Sangam MN";
+}
+/*font*/
+#telugu-sangam-mn-bold .text-sampler {
+    font-family: "Telugu Sangam MN Bold";
+}
+/*font*/
+#thonburi .text-sampler {
+    font-family: "Thonburi";
+}
+/*font*/
+#thonburi-bold .text-sampler {
+    font-family: "Thonburi Bold";
+}
+/*font*/
+#thonburi-light .text-sampler {
+    font-family: "Thonburi Light";
+}
+/*font*/
+#times-new-roman-serif .text-sampler {
+    font-family: "Times New Roman serif";
+}
+/*font*/
+#times-new-roman-bold .text-sampler {
+    font-family: "Times New Roman Bold";
+}
+/*font*/
+#times-new-roman-bold-italic .text-sampler {
+    font-family: "Times New Roman Bold Italic";
+}
+/*font*/
+#times-new-roman-italic .text-sampler {
+    font-family: "Times New Roman Italic";
+}
+/*font*/
+#trebuchet-ms .text-sampler {
+    font-family: "Trebuchet MS";
+}
+/*font*/
+#trebuchet-ms-bold .text-sampler {
+    font-family: "Trebuchet MS Bold";
+}
+/*font*/
+#trebuchet-ms-bold-italic .text-sampler {
+    font-family: "Trebuchet MS Bold Italic";
+}
+/*font*/
+#trebuchet-ms-italic .text-sampler {
+    font-family: "Trebuchet MS Italic";
+}
+/*font*/
+#verdana .text-sampler {
+    font-family: "Verdana";
+}
+/*font*/
+#verdana-bold .text-sampler {
+    font-family: "Verdana Bold";
+}
+/*font*/
+#verdana-bold-italic .text-sampler {
+    font-family: "Verdana Bold Italic";
+}
+/*font*/
+#verdana-italic .text-sampler {
+    font-family: "Verdana Italic";
+}
+/*font*/
+#zapf-dingbats .text-sampler {
+    font-family: "Zapf Dingbats";
+}
+/*font*/
+#zapfino .text-sampler {
+    font-family: "Zapfino";
+}
