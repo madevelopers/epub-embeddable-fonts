@@ -14,6 +14,8 @@ This is a list of fonts that you can use directly by specifying their names on t
 
 This list is from http://support.apple.com/en-us/HT202771. There is an additional list where they say _“Apps can download the following fonts if necessary”_. I don't know what they meant, so I excluded them from this list.
 
+It took me time figuring out how to display the condensed/light fonts. Luckily I found some of the font file names on [this repo](https://github.com/potyt/fonts)
+
 * Academy Engraved LET Plain
 * Al Nile
 * Al Nile Bold
