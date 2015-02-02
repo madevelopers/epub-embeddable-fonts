@@ -14,6 +14,10 @@ Below is a excerpt of their "About page":
 
 > All of the fonts are Open Source. This means that you are free to share your favorites with friends and colleagues. You can even customize them for your own use, or collaborate with the original designer to improve them. And you can use them in every way you want, privately or commercially — in print, on your computer, or in your websites.
 
+## FontSquirrel.com
+
+[FontSquirrel](http://www.fontsquirrel.com/) have carefully handpicked a ton of free fonts for commercial use. It is still best to review the license though, since some of the fonts they found doesn't have a license or are abandoned by the creator.
+
 # Pre-installed fonts
 
 This is a list of fonts that you can use directly by specifying their names on the css. No embedding needed.
