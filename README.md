@@ -21,68 +21,68 @@ It took me time figuring out how to display the condensed/light fonts. Luckily I
 * Al Nile Bold
 * American Typewriter
 * American Typewriter Bold
+* American Typewriter Light
 * American Typewriter Condensed
 * American Typewriter Condensed Bold
 * American Typewriter Condensed Light
-* American Typewriter Light
 * Apple Color Emoji
-* Apple SD Gothic Neo Bold
+* AppleGothic Regular
+* Apple SD Gothic Neo Regular
+* Apple SD Gothic Neo Thin
 * Apple SD Gothic Neo Light
 * Apple SD Gothic Neo Medium
-* Apple SD Gothic Neo Regular
 * Apple SD Gothic Neo SemiBold
-* Apple SD Gothic Neo Thin
-* AppleGothic Regular
+* Apple SD Gothic Neo Bold
 * Arial
 * Arial Bold
+* Arial Italic
 * Arial Bold Italic
 * Arial Hebrew
-* Arial Hebrew Bold
 * Arial Hebrew Light
-* Arial Italic
+* Arial Hebrew Bold
 * Arial Rounded MT Bold
-* Avenir Black
-* Avenir Black Oblique
-* Avenir Book
-* Avenir Book Oblique
-* Avenir Heavy
-* Avenir Heavy Oblique
+* Avenir Roman
+* Avenir Oblique
 * Avenir Light
 * Avenir Light Oblique
 * Avenir Medium
 * Avenir Medium Oblique
+* Avenir Book
+* Avenir Book Oblique
+* Avenir Heavy
+* Avenir Heavy Oblique
+* Avenir Black
+* Avenir Black Oblique
+* Avenir Next Regular
 * Avenir Next Bold
+* Avenir Next Italic
 * Avenir Next Bold Italic
-* Avenir Next Condensed Bold
-* Avenir Next Condensed Bold Italic
-* Avenir Next Condensed Demi Bold
-* Avenir Next Condensed Demi Bold Italic
-* Avenir Next Condensed Heavy
-* Avenir Next Condensed Heavy Italic
-* Avenir Next Condensed Italic
-* Avenir Next Condensed Medium
-* Avenir Next Condensed Medium Italic
-* Avenir Next Condensed Regular
-* Avenir Next Condensed Ultra Light
-* Avenir Next Condensed Ultra Light Italic
+* Avenir Next Ultra Light
+* Avenir Next Ultra Light Italic
+* Avenir Next Medium
+* Avenir Next Medium Italic
 * Avenir Next Demi Bold
 * Avenir Next Demi Bold Italic
 * Avenir Next Heavy
 * Avenir Next Heavy Italic
-* Avenir Next Italic
-* Avenir Next Medium
-* Avenir Next Medium Italic
-* Avenir Next Regular
-* Avenir Next Ultra Light
-* Avenir Next Ultra Light Italic
-* Avenir Oblique
-* Avenir Roman
+* Avenir Next Condensed Regular
+* Avenir Next Condensed Bold
+* Avenir Next Condensed Italic
+* Avenir Next Condensed Bold Italic
+* Avenir Next Condensed Ultra Light
+* Avenir Next Condensed Ultra Light Italic
+* Avenir Next Condensed Medium
+* Avenir Next Condensed Medium Italic
+* Avenir Next Condensed Demi Bold
+* Avenir Next Condensed Demi Bold Italic
+* Avenir Next Condensed Heavy
+* Avenir Next Condensed Heavy Italic
 * Bangla Sangam MN
 * Bangla Sangam MN Bold
 * Baskerville
 * Baskerville Bold
-* Baskerville Bold Italic
 * Baskerville Italic
+* Baskerville Bold Italic
 * Baskerville SemiBold
 * Baskerville SemiBold Italic
 * Bodoni 72 Bold
@@ -94,31 +94,31 @@ It took me time figuring out how to display the condensed/light fonts. Luckily I
 * Bodoni 72 Smallcaps Book
 * Bodoni Ornaments
 * Bradley Hand Bold
-* Chalkboard SE Bold
-* Chalkboard SE Light
 * Chalkboard SE Regular
+* Chalkboard SE Light
+* Chalkboard SE Bold
 * Chalkduster
 * Cochin
 * Cochin Bold
-* Cochin Bold Italic
 * Cochin Italic
+* Cochin Bold Italic
 * Copperplate
 * Copperplate Bold
 * Copperplate Light
-* Courier `monospace`
+* Courier
 * Courier Bold
+* Courier Oblique
 * Courier Bold Oblique
 * Courier New
 * Courier New Bold
-* Courier New Bold Italic
 * Courier New Italic
-* Courier Oblique
+* Courier New Bold Italic
 * DIN Alternate Bold
 * DIN Condensed Bold
 * Damascus
-* Damascus Bold
 * Damascus Medium
 * Damascus Semi Bold
+* Damascus Bold
 * Devanagari Sangam MN
 * Devanagari Sangam MN Bold
 * Didot
@@ -129,21 +129,21 @@ It took me time figuring out how to display the condensed/light fonts. Luckily I
 * Euphemia UCAS Bold
 * Euphemia UCAS Italic
 * Farah
-* Futura Condensed ExtraBold
-* Futura Condensed Medium
 * Futura Medium
 * Futura Medium Italic
+* Futura Condensed Medium
+* Futura Condensed ExtraBold
 * Geeza Pro
-* Geeza Pro Bold
 * Geeza Pro Light
+* Geeza Pro Bold
 * Georgia
 * Georgia Bold
-* Georgia Bold Italic
 * Georgia Italic
+* Georgia Bold Italic
 * Gill Sans
 * Gill Sans Bold
-* Gill Sans Bold Italic
 * Gill Sans Italic
+* Gill Sans Bold Italic
 * Gill Sans Light
 * Gill Sans Light Italic
 * Gujarati Sangam MN
@@ -153,107 +153,107 @@ It took me time figuring out how to display the condensed/light fonts. Luckily I
 * Heiti SC Medium
 * Heiti TC Light
 * Heiti TC Medium
-* Helvetica `sans-serif`
+* Helvetica
 * Helvetica Bold
+* Helvetica Oblique
 * Helvetica Bold Oblique
 * Helvetica Light
 * Helvetica Light Oblique
 * Helvetica Neue
 * Helvetica Neue Bold
-* Helvetica Neue Bold Italic
-* Helvetica Neue Condensed Black
-* Helvetica Neue Condensed Bold
 * Helvetica Neue Italic
+* Helvetica Neue Bold Italic
+* Helvetica Neue UltraLight
+* Helvetica Neue UltraLight Italic
+* Helvetica Neue Thin
+* Helvetica Neue Thin Italic
 * Helvetica Neue Light
 * Helvetica Neue Light Italic
 * Helvetica Neue Medium
 * Helvetica Neue Medium Italic
-* Helvetica Neue Thin
-* Helvetica Neue Thin Italic
-* Helvetica Neue UltraLight
-* Helvetica Neue UltraLight Italic
-* Helvetica Oblique
+* Helvetica Neue Condensed Black
+* Helvetica Neue Condensed Bold
 * Hiragino Kaku Gothic ProN W3
 * Hiragino Kaku Gothic ProN W6
 * Hiragino Mincho ProN W3
 * Hiragino Mincho ProN W6
 * Hoefler Text
 * Hoefler Text Black
-* Hoefler Text Black Italic
 * Hoefler Text Italic
-* Iowan Old Style Bold
-* Iowan Old Style Bold Italic
-* Iowan Old Style Italic
+* Hoefler Text Black Italic
 * Iowan Old Style Roman
-* Kailasa Bold
+* Iowan Old Style Bold
+* Iowan Old Style Italic
+* Iowan Old Style Bold Italic
 * Kailasa Regular
+* Kailasa Bold
 * Kannada Sangam MN
 * Kannada Sangam MN Bold
 * Malayalam Sangam MN
 * Malayalam Sangam MN Bold
+* Marion Regular
 * Marion Bold
 * Marion Italic
-* Marion Regular
 * Marker Felt Thin
 * Marker Felt Wide
-* Menlo Bold
-* Menlo Bold Italic
-* Menlo Italic
 * Menlo Regular
-* Noteworthy Bold
+* Menlo Bold
+* Menlo Italic
+* Menlo Bold Italic
 * Noteworthy Light
+* Noteworthy Bold
+* Optima Regular
 * Optima Bold
+* Optima Italic
 * Optima Bold Italic
 * Optima ExtraBlack
-* Optima Italic
-* Optima Regular
 * Oriya Sangam MN
 * Oriya Sangam MN Bold
 * Palatino
 * Palatino Bold
-* Palatino Bold Italic
 * Palatino Italic
-* Papyrus `fantasy`
+* Palatino Bold Italic
+* Papyrus
 * Papyrus Condensed
 * Party LET Plain
 * Savoye LET Plain CC
 * Savoye LET Plain
 * Sinhala Sangam MN
 * Sinhala Sangam MN Bold
-* Snell Roundhand `cursive`
-* Snell Roundhand Black
+* Snell Roundhand
 * Snell Roundhand Bold
-* Superclarendon Black
-* Superclarendon Black Italic
+* Snell Roundhand Black
+* Superclarendon Regular
 * Superclarendon Bold
-* Superclarendon Bold Italic
 * Superclarendon Italic
+* Superclarendon Bold Italic
 * Superclarendon Light
 * Superclarendon Light Italic
-* Superclarendon Regular
+* Superclarendon Black
+* Superclarendon Black Italic
 * Symbol
 * Tamil Sangam MN
 * Tamil Sangam MN Bold
 * Telugu Sangam MN
 * Telugu Sangam MN Bold
 * Thonburi
-* Thonburi Bold
 * Thonburi Light
-* Times New Roman `serif`
+* Thonburi Bold
+* Times New Roman
 * Times New Roman Bold
-* Times New Roman Bold Italic
 * Times New Roman Italic
+* Times New Roman Bold Italic
 * Trebuchet MS
 * Trebuchet MS Bold
-* Trebuchet MS Bold Italic
 * Trebuchet MS Italic
+* Trebuchet MS Bold Italic
 * Verdana
 * Verdana Bold
-* Verdana Bold Italic
 * Verdana Italic
+* Verdana Bold Italic
 * Zapf Dingbats
 * Zapfino
- 
+
 ### Kindle PaperWhite
 
 * Baskerville
@@ -274,7 +274,7 @@ It took me time figuring out how to display the condensed/light fonts. Luckily I
 * Trebuchet
 * Verdana
 
-## Older Kindles and Kindle DX 
+## Older Kindles and Kindle DX
 
 * Caecilia
 
