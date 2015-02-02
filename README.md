@@ -33,7 +33,7 @@ Adobe have partnered with Google to provide free fonts via https://edgewebfonts.
 ## Icon fonts
 
 * [Fontawesome](http://fortawesome.github.io/Font-Awesome/)
-* [weloveiconfonts.com](http://weloveiconfonts.com/). Not sure if this can be embedded on epub. I already filed an [issue](https://github.com/TimPietrusky/weloveiconfonts/issues/57) by the maintainer.
+* [weloveiconfonts.com](http://weloveiconfonts.com/). Not sure if this can be embedded on epub. I already filed an [issue](https://github.com/TimPietrusky/weloveiconfonts/issues/57) for this.
 * [a list from csstricks](http://css-tricks.com/flat-icons-icon-fonts/). Look for the free fonts and read the license.
 
 
