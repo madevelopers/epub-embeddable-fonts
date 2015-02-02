@@ -18,6 +18,10 @@ Below is a excerpt of their "About page":
 
 [FontSquirrel](http://www.fontsquirrel.com/) have carefully handpicked a ton of free fonts for commercial use. It is still best to review the license though, since some of the fonts they found doesn't have a license or are abandoned by the creator.
 
+## Adobe
+
+Adobe have partnered with Google to provide free fonts via https://edgewebfonts.adobe.com/fonts. I found the ui easier to navigate than Google Web Fonts. However, I can't find a way to download the fonts. I didn't also find the disclaimer about all fonts being free to use commercially.
+
 # Pre-installed fonts
 
 This is a list of fonts that you can use directly by specifying their names on the css. No embedding needed.
