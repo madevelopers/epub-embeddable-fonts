@@ -30,6 +30,13 @@ Adobe have partnered with Google to provide free fonts via https://edgewebfonts.
 * [Deja Vu](http://dejavu-fonts.org/wiki/Main_Page)
 * [Quivira](http://www.quivira-font.com/index.php)
 
+## Icon fonts
+
+* [Fontawesome](http://fortawesome.github.io/Font-Awesome/)
+* [weloveiconfonts.com](http://weloveiconfonts.com/). Not sure if this can be embedded on epub. I already filed an [issue](https://github.com/TimPietrusky/weloveiconfonts/issues/57) by the maintainer.
+* [a list from csstricks](http://css-tricks.com/flat-icons-icon-fonts/). Look for the free fonts and read the license.
+
+
 # Pre-installed fonts
 
 This is a list of fonts that you can use directly by specifying their names on the css. No embedding needed.
