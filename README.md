@@ -6,6 +6,14 @@ A list of free fonts that can be embedded on epubs. I also included pre-installe
 
 Check this [page](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_fonts) for a list of SIL fonts.
 
+## Google Fonts
+
+Google provides free open source fonts which you can download per [collection](https://www.google.com/fonts) or the entire [repository](https://code.google.com/p/googlefontdirectory/).
+
+Below is a excerpt of their "About page":
+
+> All of the fonts are Open Source. This means that you are free to share your favorites with friends and colleagues. You can even customize them for your own use, or collaborate with the original designer to improve them. And you can use them in every way you want, privately or commercially — in print, on your computer, or in your websites.
+
 # Pre-installed fonts
 
 This is a list of fonts that you can use directly by specifying their names on the css. No embedding needed.
