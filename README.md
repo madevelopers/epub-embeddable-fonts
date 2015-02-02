@@ -24,7 +24,7 @@ Adobe have partnered with Google to provide free fonts via https://edgewebfonts.
 
 ## Unicode fonts / Non-latin scripts
 
-* [Noto Sans](http://www.google.com/get/noto/)
+* [Noto](http://www.google.com/get/noto/)
 * [Google Font Early Access](http://www.google.com/fonts/earlyaccess)
 * [Unicode Fonts for Ancient Scripts](http://users.teilar.gr/~g1951d/)
 * [Deja Vu](http://dejavu-fonts.org/wiki/Main_Page)
