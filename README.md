@@ -22,6 +22,14 @@ Below is a excerpt of their "About page":
 
 Adobe have partnered with Google to provide free fonts via https://edgewebfonts.adobe.com/fonts. I found the ui easier to navigate than Google Web Fonts. However, I can't find a way to download the fonts. I didn't also find the disclaimer about all fonts being free to use commercially.
 
+## Unicode fonts / Non-latin scripts
+
+* [Noto Sans](http://www.google.com/get/noto/)
+* [Google Font Early Access](http://www.google.com/fonts/earlyaccess)
+* [Unicode Fonts for Ancient Scripts](http://users.teilar.gr/~g1951d/)
+* [Deja Vu](http://dejavu-fonts.org/wiki/Main_Page)
+* [Quivira](http://www.quivira-font.com/index.php)
+
 # Pre-installed fonts
 
 This is a list of fonts that you can use directly by specifying their names on the css. No embedding needed.
